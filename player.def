@@ -3,11 +3,11 @@
 
 ; Player information
 [Info]
-name = ""        ;Name of character
-displayname = "" ;Name of character to display
-versiondate =    ;Version date of character
-mugenversion =   ;Version of M.U.G.E.N character works on
-author = ""      ;Character author name
+name = "Jibril"        ;Name of character
+displayname = "Jibril" ;Name of character to display
+versiondate = 0.5   ;Version date of character
+mugenversion =1.0   ;Version of M.U.G.E.N character works on
+author = "Mika"      ;Character author name
 pal.defaults =   ;Default palettes in order of preference
 
 ; Files for the player
